@@ -1,4 +1,4 @@
-# **CentralBank-LLM (ChatGPT-4, Langchain)**
+# **CentralBank-LLM (ChatGPT, Langchain)**
 Discover what top institutions <ins>**really think</ins>** about current economic conditions (price inflation, unemployment, interest rates). Plotly Dash App is built to extract main highlights and query latest central banking publications from:
 - [Federal Reserve](https://www.federalreserve.gov/monetarypolicy.htm)
 - [Bank of England](https://www.bankofengland.co.uk/monetary-policy-report/monetary-policy-report)
@@ -9,6 +9,13 @@ It also provides citations to the original publications (source, author, and pag
 
 ## **Tutorial:**
 ![](https://github.com/viczommers/CentralBank-LLM/blob/main/Tutorial.gif)
+### **How to install & run the app**:
+1. ```git clone https://github.com/viczommers/CentralBank-LLM.git```
+2.  change directory to cloned repository ```cd your-folder-path```
+3.  ```pip install -r requirements.txt ```
+4.  ```python app.py ```
+5. open the app at http://localhost:8050/
+
 
 ## **Notes & Known Issues:**
 ### Langchain Chroma vectorstore deletion
