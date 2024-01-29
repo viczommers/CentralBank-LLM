@@ -7,4 +7,5 @@ requests==2.31.0
 chromadb==0.4.22
 tiktoken==0.5.2
 pypdf[crypto]==3.17.4
+numpy==1.26.3
 pandas
