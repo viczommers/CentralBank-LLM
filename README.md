@@ -1,5 +1,6 @@
-# **CentralBank-LLM (ChatGPT, Langchain)**
-Discover what top institutions <ins>**really think</ins>** about current economic conditions (price inflation, unemployment, interest rates). Plotly Dash App is built to extract main highlights and query latest central banking publications from:
+# **CentralBank-LLM (ChatGPT, Langchain)** 
+**[🥈Plotly-Langchain Challenge Winner](https://medium.com/plotly/dash-club-13-langchain-plotly-upcoming-webinar-dash-online-course-dash-langchain-challenge-6820b39caa08#7aac) | [View Webinar Recording](https://youtu.be/sVHfc27BlSE?si=RoZlsLK89HFhvWMw&t=2145)**<br>
+Discover what top banking institutions <ins>**really think</ins>** about macroeconomic conditions (inflation, interest rates, GDP, unemployment, oil prices). Plotly Dash App is built to extract main highlights and query latest central banking publications from:
 - [Federal Reserve](https://www.federalreserve.gov/monetarypolicy.htm)
 - [Bank of England](https://www.bankofengland.co.uk/monetary-policy-report/monetary-policy-report)
 - [European Central Bank](https://www.ecb.europa.eu/pub/economic-bulletin/html/index.en.html)
