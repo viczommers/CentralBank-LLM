@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or work, please cite it as follows."
+authors:
+  - family-names: Zommers
+    given-names: Victor
+title: "Central Bank Speak RAG-LLM"
+version: 0.1.0
+date-released: 2024-01-01
+url: https://github.com/viczommers/CentralBank-LLM/
